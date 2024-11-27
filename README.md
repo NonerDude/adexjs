@@ -1,2 +1,2 @@
 # adexjs
-Adi rozenson's rxjs
+Adi Rozenson's rxjs
